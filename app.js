@@ -1,7 +1,7 @@
 /* English lives in index.html so the site is usable without JavaScript.
    Edit the matching Chinese text below to update the second language. */
 const chinese = {
-  posterCaption:'来自 Dido 老师的一声你好',posterView:'查看完整图片 ↗',skip:'跳转到正文',menu:'菜单',navApproach:'教学特色',navClasses:'课程介绍',navAbout:'认识 Dido 老师',navContact:'联系我',trialShort:'免费体验课',
+  posterCaption:'来自 Dido 老师的一声你好',posterView:'查看完整图片 ↗',skip:'跳转到正文',menu:'菜单',navApproach:'教学特色',navClasses:'课程介绍',navAbout:'认识 Dido 老师',navTestimonials:'家长与学校评价',navContact:'联系我',trialShort:'免费体验课',
   heroEyebrow:'从一句中文，发现一个新世界',heroLine1:'小小的你，',heroLine2:'大大的发现。',heroDescription:'在快乐中遇见中文。儿歌、故事和充满趣味的小小冒险，让孩子的好奇心自然萌芽。',trial:'预约免费体验课',explore:'看看我们如何学习',heroNote:'2–6 岁 · 小班教学 · 快乐成长',photoCaption:'真实的课堂，快乐的学习。',
   factAge:'岁的好奇时光',minutes:'分钟',factTime:'的快乐探索',factGroup:'小班教学，用心陪伴',factLanguage:'以中文为主，英文辅助',
   approachEyebrow:'在玩耍中，悄悄成长',approachTitle1:'让学中文，',approachTitle2:'像玩耍一样自然。',approachIntro:'好奇、自在、开心，是孩子学习的起点。每一节课，都用孩子喜欢的方式，让中文变得生动。',
